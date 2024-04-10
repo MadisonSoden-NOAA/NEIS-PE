@@ -11,7 +11,6 @@ The EISES coding project has been separated into four subsections of the softwar
 # EISES Development Checklist:
 ( todo: :white_large_square:, in progress: :hammer:, completed :heavy_check_mark:)
 ##### Last Updated: 10/08/2019
-##### Questions: madison.soden@noaa.gov
 <!---
 :white_large_square:
 :heavy_check_mark:
